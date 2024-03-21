@@ -17,4 +17,3 @@ hero:
       text: html, rendering & hosting
       link: /compose
 ---
-

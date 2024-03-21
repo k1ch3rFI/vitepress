@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: 'Concepts', link: '/misc' },
       { text: 'Styling', link: '/style' },
-      { text: 'Rendering', link: '/html' }
+      { text: 'Rendering', link: '/compose' }
     ],
 
     sidebar: [
